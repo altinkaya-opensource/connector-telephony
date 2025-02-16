@@ -18,50 +18,50 @@ msgstr ""
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
 msgid "<span class=\"o_form_label\">Incoming calls</span>"
-msgstr "<span class=\"o_form_label\">Eingehende Anrufe</span>"
+msgstr "<span class=\"o_form_label\">来电</span>"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__calling_number
 msgid "Calling Number"
-msgstr "Anrufernummer"
+msgstr "呼叫号码"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid "Cancel"
-msgstr "Abbruch"
+msgstr "取消"
 
 #. module: base_phone
 #. odoo-javascript
 #: code:addons/base_phone/static/src/components/on_dial_button/on_dial_button.esm.js:0
 #, python-format
 msgid "Click2dial successfull"
-msgstr "Click2dial erfolgreich"
+msgstr "Click2dial 成功"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid "Close"
-msgstr "Schließen"
+msgstr "关闭"
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_phone_common
 msgid "Common methods for phone features"
-msgstr "Gängige Methoden für Telefonfunktionen"
+msgstr "电话功能的常用方法"
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_res_company
 msgid "Companies"
-msgstr "Unternehmen"
+msgstr "公司"
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_res_config_settings
 msgid "Config Settings"
-msgstr "Konfigurationseinstellungen"
+msgstr "配置设置"
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_res_partner
 msgid "Contact"
-msgstr "Kontakt"
+msgstr "联系我们"
 
 #. module: base_phone
 #. odoo-python
@@ -69,84 +69,84 @@ msgstr "Kontakt"
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 #, python-format
 msgid "Create New Partner"
-msgstr "Erstelle neuen Partner"
+msgstr "创建新合作伙伴"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 msgid "Create or Update a Partner"
-msgstr "Einen Partner anlegen oder aktualisieren"
+msgstr "创建或更新合作伙伴"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__create_uid
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr "创建者"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__create_date
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr "创建于"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__current_partner_mobile
 msgid "Current Mobile"
-msgstr "Aktuelle Mobilnummer"
+msgstr "当前移动"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__current_partner_phone
 msgid "Current Phone"
-msgstr "Aktuelle Telefonnummer"
+msgstr "当前电话"
 
 #. module: base_phone
 #. odoo-javascript
 #: code:addons/base_phone/static/src/components/on_dial_button/on_dial_button.xml:0
 #, python-format
 msgid "Dial"
-msgstr "Wählen"
+msgstr "拨号"
 
 #. module: base_phone
 #. odoo-javascript
 #: code:addons/base_phone/static/src/components/on_dial_button/on_dial_button.esm.js:0
 #, python-format
 msgid "Dial phone"
-msgstr "Telefon wählen"
+msgstr "拨号电话"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__display_name
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr "显示名称"
 
 #. module: base_phone
 #: model:ir.model.fields.selection,name:base_phone.selection__reformat_all_phonenumbers__state__done
 msgid "Done"
-msgstr "Ferig"
+msgstr "完成"
 
 #. module: base_phone
 #: model:ir.model.fields.selection,name:base_phone.selection__reformat_all_phonenumbers__state__draft
 msgid "Draft"
-msgstr "Entwurf"
+msgstr "草稿"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__e164_number
 msgid "E.164 Number"
-msgstr "E.164 Nummer"
+msgstr "E.164 号码"
 
 #. module: base_phone
 #: model:ir.model.fields,help:base_phone.field_number_not_found__e164_number
 msgid "E.164 equivalent of the calling number."
-msgstr "E.164 Entsprechung der Rufnummer."
+msgstr "相当于 E.164 的呼叫号码。"
 
 #. module: base_phone
 #: model:ir.model.fields.selection,name:base_phone.selection__number_not_found__number_type__phone
 msgid "Fixed"
-msgstr "Festnetz"
+msgstr "固定"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__number_type
 msgid "Fixed/Mobile"
-msgstr "Festnetz/Mobil"
+msgstr "固定/移动电话"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__id
@@ -166,187 +166,176 @@ msgid ""
 "digits of the phone number presented by the calling party. N is the value "
 "you should enter in this field."
 msgstr ""
-"In einigen Situationen muss Odoo einen Partner/Mitarbeiter/… aus der vom "
-"Anrufer übermittelten Telefonnummer finden. Da der Telefonanbieter nicht "
-"immer in einem Standardformat sendet ist die beste Methode um die "
-"entsprechenden Telefonnummer zu finden, das Ende der Telefonnummer mit den "
-"letzten N Ziffern zu vergleichen. N ist der Wert, den Sie in dieses Feld "
-"eingeben sollten."
+"在某些情况下，Odoo "
+"需要从呼叫方提供的电话号码中查找合作伙伴/领导/员工/......。由于电话运营商提供的电话号码可能并不总是以标准格式显示，因此在 Odoo "
+"中查找相关合作伙伴/领导/员工/...的最佳方法是尝试将 Odoo 中电话号码的尾数与呼叫方提供的电话号码的最后 N 位数字相匹配。N "
+"是您应在此字段中输入的值。"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found____last_update
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr "最后修改日期"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__write_uid
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr "最后更新"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__write_date
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr "最后更新日期"
 
 #. module: base_phone
 #. odoo-python
 #: code:addons/base_phone/wizard/number_not_found.py:0
 #, python-format
 msgid "Missing country on company %s"
-msgstr "Bei Unternehmen %s fehlt das Land"
+msgstr "公司 %s 上缺少国家"
 
 #. module: base_phone
 #: model:ir.model.fields.selection,name:base_phone.selection__number_not_found__number_type__mobile
 msgid "Mobile"
-msgstr "Mobil"
+msgstr "移动电话"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 msgid "Number Not Found"
-msgstr "Nummer nicht gefunden"
+msgstr "未找到编号"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 msgid "Number converted to international format:"
-msgstr "Nummer in internationales Format umgewandelt:"
+msgstr "转换为国际格式的数字："
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_number_not_found
 msgid "Number not found"
-msgstr "Nummer nicht gefunden"
+msgstr "未找到编号"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
 msgid "Number of Digits"
-msgstr "Anzahl der übereinstimmenden Stellen vom Ende her"
+msgstr "位数"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_res_company__number_of_digits_to_match_from_end
 #: model:ir.model.fields,field_description:base_phone.field_res_config_settings__number_of_digits_to_match_from_end
 msgid "Number of Digits To Match From End"
-msgstr "Anzahl der übereinstimmenden Stellen vom Ende her"
+msgstr "从末尾开始匹配的位数"
 
 #. module: base_phone
 #: model:ir.model.fields,help:base_phone.field_number_not_found__to_update_partner_id
 msgid "Partner on which the phone number will be written"
-msgstr "Partner dem die Telefonnummer zugewiesen wird"
+msgstr "电话号码的合作伙伴"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__to_update_partner_id
 msgid "Partner to Update"
-msgstr "Zu aktualisierender Partner"
+msgstr "更新合作伙伴"
 
 #. module: base_phone
 #. odoo-python
 #: code:addons/base_phone/wizard/number_not_found.py:0
 #, python-format
 msgid "Partner: %s"
-msgstr "Partner: %s"
+msgstr "合作伙伴：%s"
 
 #. module: base_phone
 #: model:res.groups,name:base_phone.group_callerid
 msgid "Phone CallerID"
-msgstr "Telefon Anrufer-ID"
+msgstr "来电显示"
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_phone_validation_mixin
 msgid "Phone Validation Mixin"
-msgstr "Telefon Validierungs Mixin"
+msgstr "电话验证混合插件"
 
 #. module: base_phone
 #: model:ir.model.fields,help:base_phone.field_number_not_found__calling_number
 msgid ""
 "Phone number of calling party that has been obtained from the telephony "
 "server, in the format used by the telephony server (not E.164)."
-msgstr ""
-"Telefonnummer des Anrufers der vom Telefonieserver erhalten wurde, im Format"
-" des Telefonieservers (nicht E.164)."
+msgstr "以电话服务器使用的格式（非 E.164）从电话服务器获取的呼叫方电话号码。"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__phonenumbers_not_reformatted
 msgid "Phone numbers that couldn't be reformatted"
-msgstr "Telefonnummern, die nicht umformatiert werden konnten"
+msgstr "无法重新格式化的电话号码"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid "Phone numbers that couldn't be reformatted:"
-msgstr "Telefonnummern, die nicht umformatiert werden konnten:"
+msgstr "无法重新格式化的电话号码："
 
 #. module: base_phone
 #: model:ir.actions.act_window,name:base_phone.reformat_all_phonenumbers_action
 #: model:ir.ui.menu,name:base_phone.reformat_all_phonenumbers_menu
 msgid "Reformat Phone Numbers"
-msgstr "Formatiere die Telefonnummern um"
+msgstr "重新格式化电话号码"
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_reformat_all_phonenumbers
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid "Reformat all phone numbers"
-msgstr "Formatiere alle Telefonnummern um"
+msgstr "重新格式化所有电话号码"
 
 #. module: base_phone
 #. odoo-python
 #: code:addons/base_phone/wizard/number_not_found.py:0
 #, python-format
 msgid "Select the Partner to Update."
-msgstr "Wählen Sie den Partner der aktualisiert werden soll."
+msgstr "选择要更新的合作伙伴。"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
 msgid ""
 "Set how many digits must be identical from the end of the phone number to "
 "declare it as a match with a partner, a lead, an employee, a candidate, etc."
-msgstr ""
-"Legen Sie fest, wie viele Ziffern ab dem Ende der Telefonnummer identisch "
-"sein müssen, um sie als Übereinstimmung mit einem Partner, einem Lead, einem"
-" Mitarbeiter, einem Kandidaten usw. zu deklarieren."
+msgstr "设置电话号码末尾必须有多少位数字相同，才能宣布与合作伙伴、线索、员工、候选人等匹配。"
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__state
 msgid "State"
-msgstr "Bundesland"
+msgstr "国家"
 
 #. module: base_phone
 #: model:ir.ui.menu,name:base_phone.menu_config_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
 #: model_terms:ir.ui.view,arch_db:base_phone.view_users_form
 msgid "Telephony"
-msgstr "Telefonie"
+msgstr "电话"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.view_users_form
 msgid "Telephony Preferences"
-msgstr "Telefonie Einstellungen"
+msgstr "电话首选项"
 
 #. module: base_phone
 #: model:ir.model.constraint,message:base_phone.constraint_res_company_number_of_digits_to_match_from_end_positive
 msgid ""
 "The value of the field 'Number of Digits To Match From End' must be "
 "positive."
-msgstr ""
-"Der Wert des Feldes 'Anzahl der übereinstimmenden Stellen vom Ende her' muss"
-" positiv sein"
+msgstr "从末尾开始匹配的位数 \"字段的值必须为正数。"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid ""
 "This wizard reformats the phone and mobile numbers of all partners in "
 "standard international format e.g. +33 1 41 98 12 42"
-msgstr ""
-"Dieser Assistent formatiert die Telefon-, Mobil- und Faxnummern aller "
-"Partner im standard internationen Format - zB +33141981242 - neu"
+msgstr "该向导将所有合作伙伴的电话号码和手机号码重新格式化为标准国际格式，例如 +33 1 41 98 12 42"
 
 #. module: base_phone
 #. odoo-javascript
 #: code:addons/base_phone/static/src/components/on_dial_button/on_dial_button.esm.js:0
 #, python-format
 msgid "Unhook your ringing phone"
-msgstr "Nimm das klingelde Telefon ab"
+msgstr "解除电话铃声"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 msgid "Update Existing Partner"
-msgstr "Einen Partner anlegen oder aktualisieren"
+msgstr "更新现有合作伙伴"

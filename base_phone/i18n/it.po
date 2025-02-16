@@ -1,23 +1,19 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * base_phone
+# 	* base_phone
 #
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-09 09:55+0000\n"
-"PO-Revision-Date: 2024-10-15 14:06+0000\n"
-"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
-"Language-Team: Italian (https://www.transifex.com/oca/teams/23907/it/)\n"
-"Language: it\n"
+"POT-Creation-Date: 2025-02-14 19:14+0000\n"
+"PO-Revision-Date: 2025-02-14 19:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"Plural-Forms: \n"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
@@ -60,7 +56,7 @@ msgstr "Aziende"
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_res_config_settings
 msgid "Config Settings"
-msgstr "Impostazioni configurazione"
+msgstr "Impostazioni raggruppamento approvvigionamento acquisti"
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_res_partner
@@ -171,13 +167,13 @@ msgid ""
 "you should enter in this field."
 msgstr ""
 "In diverse situazioni, Odoo dovrà cercare un partner/contatto/dipendente... "
-"da un numero di telefono presentato dal soggetto chiamante. Poiché il numero "
-"di telefono presentato dal vostro operatore telefonico potrebbe non essere "
-"visualizzato in formato standard, il miglior modo per trovare il partner/"
-"contatto/dipendente/... relativo in Odoo è di cercare la corrispondenza tra "
-"la fine del numero di telefono in Odoo con gli ultimi N numeri del numero di "
-"telefono presentato dal soggetto chiamante. N è il numero da inserire in "
-"questo campo."
+"da un numero di telefono presentato dal soggetto chiamante. Poiché il numero"
+" di telefono presentato dal vostro operatore telefonico potrebbe non essere "
+"visualizzato in formato standard, il miglior modo per trovare il "
+"partner/contatto/dipendente/... relativo in Odoo è di cercare la "
+"corrispondenza tra la fine del numero di telefono in Odoo con gli ultimi N "
+"numeri del numero di telefono presentato dal soggetto chiamante. N è il "
+"numero da inserire in questo campo."
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found____last_update
@@ -330,7 +326,8 @@ msgstr "Preferenze telefonia"
 #. module: base_phone
 #: model:ir.model.constraint,message:base_phone.constraint_res_company_number_of_digits_to_match_from_end_positive
 msgid ""
-"The value of the field 'Number of Digits To Match From End' must be positive."
+"The value of the field 'Number of Digits To Match From End' must be "
+"positive."
 msgstr ""
 "Il valore del campo 'Numero di cifre corrispondenti dalla fine' deve essere "
 "positivo."
