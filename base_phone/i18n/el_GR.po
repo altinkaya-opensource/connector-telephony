@@ -1,67 +1,71 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* base_phone
+# * base_phone
 #
+# Translators:
+# OCA Transbot <transbot@odoo-community.org>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 19:14+0000\n"
-"PO-Revision-Date: 2025-02-14 19:14+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2016-11-09 09:55+0000\n"
+"PO-Revision-Date: 2016-11-09 09:55+0000\n"
+"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2016\n"
+"Language-Team: Greek (Greece) (https://www.transifex.com/oca/teams/23907/"
+"el_GR/)\n"
+"Language: el_GR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
 msgid "<span class=\"o_form_label\">Incoming calls</span>"
-msgstr "<span class=\"o_form_label\">Εισερχόμενες κλήσεις</span>"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__calling_number
 msgid "Calling Number"
-msgstr "Αριθμός κλήσης"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid "Cancel"
-msgstr "Ακύρωση"
+msgstr ""
 
 #. module: base_phone
 #. odoo-javascript
 #: code:addons/base_phone/static/src/components/on_dial_button/on_dial_button.esm.js:0
 #, python-format
 msgid "Click2dial successfull"
-msgstr "Click2dial successfull"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid "Close"
-msgstr "Κλείστε το"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_phone_common
 msgid "Common methods for phone features"
-msgstr "Συνήθεις μέθοδοι για τα χαρακτηριστικά του τηλεφώνου"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_res_company
 msgid "Companies"
-msgstr "Εταιρίες"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_res_config_settings
 msgid "Config Settings"
-msgstr "Ρυθμίσεις διαμόρφωσης"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_res_partner
 msgid "Contact"
-msgstr "Επαφή"
+msgstr ""
 
 #. module: base_phone
 #. odoo-python
@@ -69,12 +73,12 @@ msgstr "Επαφή"
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 #, python-format
 msgid "Create New Partner"
-msgstr "Δημιουργία νέου συνεργάτη"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 msgid "Create or Update a Partner"
-msgstr "Δημιουργία ή ενημέρωση συνεργάτη"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__create_uid
@@ -91,62 +95,62 @@ msgstr "Δημιουργήθηκε στις"
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__current_partner_mobile
 msgid "Current Mobile"
-msgstr "Τρέχον κινητό"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__current_partner_phone
 msgid "Current Phone"
-msgstr "Τρέχον τηλέφωνο"
+msgstr ""
 
 #. module: base_phone
 #. odoo-javascript
 #: code:addons/base_phone/static/src/components/on_dial_button/on_dial_button.xml:0
 #, python-format
 msgid "Dial"
-msgstr "Καλέστε"
+msgstr ""
 
 #. module: base_phone
 #. odoo-javascript
 #: code:addons/base_phone/static/src/components/on_dial_button/on_dial_button.esm.js:0
 #, python-format
 msgid "Dial phone"
-msgstr "Τηλεφωνική κλήση"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__display_name
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__display_name
 msgid "Display Name"
-msgstr "Όνομα εμφάνισης"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields.selection,name:base_phone.selection__reformat_all_phonenumbers__state__done
 msgid "Done"
-msgstr "Έγινε"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields.selection,name:base_phone.selection__reformat_all_phonenumbers__state__draft
 msgid "Draft"
-msgstr "Σχέδιο"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__e164_number
 msgid "E.164 Number"
-msgstr "Αριθμός E.164"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,help:base_phone.field_number_not_found__e164_number
 msgid "E.164 equivalent of the calling number."
-msgstr "E.164 ισοδύναμο του αριθμού κλήσης."
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields.selection,name:base_phone.selection__number_not_found__number_type__phone
 msgid "Fixed"
-msgstr "Σταθερό"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__number_type
 msgid "Fixed/Mobile"
-msgstr "Σταθερά/κινητά"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__id
@@ -166,20 +170,12 @@ msgid ""
 "digits of the phone number presented by the calling party. N is the value "
 "you should enter in this field."
 msgstr ""
-"Σε αρκετές περιπτώσεις, το Odoo θα πρέπει να βρει έναν "
-"συνεργάτη/ηγέτη/εργαζόμενο/... από έναν αριθμό τηλεφώνου που παρουσιάζει ο "
-"καλών. Καθώς οι αριθμοί τηλεφώνου που παρουσιάζονται από τον τηλεφωνικό σας "
-"φορέα ενδέχεται να μην εμφανίζονται πάντα σε τυποποιημένη μορφή, η καλύτερη "
-"μέθοδος για την εύρεση του σχετικού Συνεργάτη/Ηγέτη/Υπαλλήλου/... στο Odoo "
-"είναι να προσπαθήσετε να αντιστοιχίσετε το τέλος του αριθμού τηλεφώνου στο "
-"Odoo με τα Ν τελευταία ψηφία του αριθμού τηλεφώνου που παρουσιάζεται από τον"
-" καλούντα. Το N είναι η τιμή που πρέπει να εισαγάγετε σε αυτό το πεδίο."
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found____last_update
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers____last_update
 msgid "Last Modified on"
-msgstr "Τελευταία τροποποίηση στις"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__write_uid
@@ -198,65 +194,65 @@ msgstr "Τελευταία ενημέρωση στις"
 #: code:addons/base_phone/wizard/number_not_found.py:0
 #, python-format
 msgid "Missing country on company %s"
-msgstr "Λείπει η χώρα στην εταιρεία %s"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields.selection,name:base_phone.selection__number_not_found__number_type__mobile
 msgid "Mobile"
-msgstr "Κινητό"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 msgid "Number Not Found"
-msgstr "Αριθμός δεν βρέθηκε"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 msgid "Number converted to international format:"
-msgstr "Αριθμός που μετατράπηκε σε διεθνή μορφή:"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_number_not_found
 msgid "Number not found"
-msgstr "Ο αριθμός δεν βρέθηκε"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
 msgid "Number of Digits"
-msgstr "Αριθμός ψηφίων"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_res_company__number_of_digits_to_match_from_end
 #: model:ir.model.fields,field_description:base_phone.field_res_config_settings__number_of_digits_to_match_from_end
 msgid "Number of Digits To Match From End"
-msgstr "Αριθμός ψηφίων για αντιστοίχιση από το τέλος"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,help:base_phone.field_number_not_found__to_update_partner_id
 msgid "Partner on which the phone number will be written"
-msgstr "Συνεργάτης στον οποίο θα αναγράφεται ο αριθμός τηλεφώνου"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_number_not_found__to_update_partner_id
 msgid "Partner to Update"
-msgstr "Συνεργάτης για την ενημέρωση"
+msgstr ""
 
 #. module: base_phone
 #. odoo-python
 #: code:addons/base_phone/wizard/number_not_found.py:0
 #, python-format
 msgid "Partner: %s"
-msgstr "Συνεργάτης: %s"
+msgstr ""
 
 #. module: base_phone
 #: model:res.groups,name:base_phone.group_callerid
 msgid "Phone CallerID"
-msgstr "Τηλέφωνο CallerID"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_phone_validation_mixin
 msgid "Phone Validation Mixin"
-msgstr "Mixin επικύρωσης τηλεφώνου"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.fields,help:base_phone.field_number_not_found__calling_number
@@ -264,37 +260,35 @@ msgid ""
 "Phone number of calling party that has been obtained from the telephony "
 "server, in the format used by the telephony server (not E.164)."
 msgstr ""
-"Αριθμός τηλεφώνου του καλούντος που έχει ληφθεί από τον διακομιστή "
-"τηλεφωνίας, στη μορφή που χρησιμοποιεί ο διακομιστής τηλεφωνίας (όχι E.164)."
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__phonenumbers_not_reformatted
 msgid "Phone numbers that couldn't be reformatted"
-msgstr "Τηλεφωνικοί αριθμοί που δεν μπόρεσαν να μορφοποιηθούν εκ νέου"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid "Phone numbers that couldn't be reformatted:"
-msgstr "Τηλεφωνικοί αριθμοί που δεν μπόρεσαν να μορφοποιηθούν εκ νέου:"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.actions.act_window,name:base_phone.reformat_all_phonenumbers_action
 #: model:ir.ui.menu,name:base_phone.reformat_all_phonenumbers_menu
 msgid "Reformat Phone Numbers"
-msgstr "Αναδιαμόρφωση τηλεφωνικών αριθμών"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model,name:base_phone.model_reformat_all_phonenumbers
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
 msgid "Reformat all phone numbers"
-msgstr "Επαναδιατύπωση όλων των τηλεφωνικών αριθμών"
+msgstr ""
 
 #. module: base_phone
 #. odoo-python
 #: code:addons/base_phone/wizard/number_not_found.py:0
 #, python-format
 msgid "Select the Partner to Update."
-msgstr "Επιλέξτε τον συνεργάτη για ενημέρωση."
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
@@ -302,35 +296,29 @@ msgid ""
 "Set how many digits must be identical from the end of the phone number to "
 "declare it as a match with a partner, a lead, an employee, a candidate, etc."
 msgstr ""
-"Ορίστε πόσα ψηφία πρέπει να είναι ίδια από το τέλος του τηλεφωνικού αριθμού "
-"για να δηλωθεί ως αντιστοιχία με έναν συνεργάτη, ένα lead, έναν υπάλληλο, "
-"έναν υποψήφιο κ.λπ."
 
 #. module: base_phone
 #: model:ir.model.fields,field_description:base_phone.field_reformat_all_phonenumbers__state
 msgid "State"
-msgstr "Κράτος"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.ui.menu,name:base_phone.menu_config_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.res_config_settings_view_form
 #: model_terms:ir.ui.view,arch_db:base_phone.view_users_form
 msgid "Telephony"
-msgstr "Τηλεφωνία"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.view_users_form
 msgid "Telephony Preferences"
-msgstr "Προτιμήσεις τηλεφωνίας"
+msgstr ""
 
 #. module: base_phone
 #: model:ir.model.constraint,message:base_phone.constraint_res_company_number_of_digits_to_match_from_end_positive
 msgid ""
-"The value of the field 'Number of Digits To Match From End' must be "
-"positive."
+"The value of the field 'Number of Digits To Match From End' must be positive."
 msgstr ""
-"Η τιμή του πεδίου \"Number of Digits To Match From End\" πρέπει να είναι "
-"θετική."
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.reformat_all_phonenumbers_form
@@ -338,17 +326,15 @@ msgid ""
 "This wizard reformats the phone and mobile numbers of all partners in "
 "standard international format e.g. +33 1 41 98 12 42"
 msgstr ""
-"Αυτός ο οδηγός αναδιαμορφώνει τους αριθμούς τηλεφώνου και κινητού όλων των "
-"συνεργατών σε τυποποιημένη διεθνή μορφή π.χ. +33 1 41 98 12 42"
 
 #. module: base_phone
 #. odoo-javascript
 #: code:addons/base_phone/static/src/components/on_dial_button/on_dial_button.esm.js:0
 #, python-format
 msgid "Unhook your ringing phone"
-msgstr "Αποσυνδέστε το τηλέφωνο που χτυπάει"
+msgstr ""
 
 #. module: base_phone
 #: model_terms:ir.ui.view,arch_db:base_phone.number_not_found_form
 msgid "Update Existing Partner"
-msgstr "Ενημέρωση υφιστάμενου συνεργάτη"
+msgstr ""
